@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jokrito
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on beginner programming tasks
+- 💞️ I’m looking to collaborate on beginner programming projects
 - 📫 How to reach me: ...
 
 <!---
