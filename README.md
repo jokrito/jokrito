@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on beginner programming projects
-- 📫 How to reach me: jonaskt@gmail.com
+- 📫 How to reach me: github@jokri.to
 
 <!---
 jokrito/jokrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
