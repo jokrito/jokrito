@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jokrito
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on beginner programming projects
 - 📫 How to reach me: github@jokri.to
